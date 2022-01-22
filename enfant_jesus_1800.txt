@@ -82,7 +82,7 @@ M 6 - m. 1800 nov 10, Pierre Piquot, M, majeur, de Pierre Piquot et Magdeleine F
 SUJETS:
 
 ALLEN, Marie-Hélene. B35
-ARCHAMBAULT, Magdeleine. B21
+ARCHAMBAULT, Magdeleine. B21, 1801-S1
 ARCHAMBAULT, Marguerite. B22, S10
 AUBERTIN, François-Eugène. B5
 BASINET, Catherine. B16
@@ -113,7 +113,7 @@ DESROCHES, Marie-Anne. S22
 DOUZE, Marie. M6
 DUBUC, Charlotte. S16
 DUMONT, Hélène. B7
-DUVAL, Françoise. B28
+DUVAL, Françoise. B28, 1801-S2
 FISCIAU, Julie. B15
 GALIPAU, Laurent. M1
 GALIPAU, Marguerite. B14
