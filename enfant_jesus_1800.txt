@@ -68,7 +68,7 @@ S21 - s. 1800 sep 15, d. 1800 sep 14, Marie-Catherine Tenant, F, 20 mois. Fille 
 S22 - s. 1800 sep 19, d. 1800 sep 18, Marie-Anne Desroches, F, 71 ans. Veuve d' Antoine Tirié?, frères Augustin et Pierre Desroches.
 S23 - s. 1800 sep 24, d. 1800 sep 23, Josette Reine, F, 61 ans. Femme de Charles Brouillet, beaux-frères Pierre Babin et Pierre Dubreuil.
 S24 - s. 1800 oct  7, d. 1800 oct  6, Joseph Janot, M, 1 mois. Fils légitime de Jean-Baptiste Janot et Marie-Charlotte Milard.
-S   - s. 1800 déc 11, d. 1800 déc 10, Louis Merrin, M, 5 mois 3 jours. Fils légitime d' Étienne Merrin et Magdeleine Caty.
+S25 - s. 1800 déc 11, d. 1800 déc 10, Louis Merrin, M, 5 mois 3 jours. Fils légitime d' Étienne Merrin et Magdeleine Caty.
 
 MARIAGES:
 
@@ -78,3 +78,74 @@ M 3 - m. 1800 oct 13, Jean-Baptiste Basinet, M, majeur, de Jean-Baptiste Basinet
 M 4 - m. 1800 oct 13, Joseph Cadieu, M, majeur, de Pierre Cadieu et Josette Maillé, et Josette Bourguignon, F, mineure, de Pierre Bourguignon et Josette Beauchamp.
 M 5 - m. 1800 oct 20, Hyacinthe Brien, M, majeur, de Joseph Brien et Marguerite Rive, par. Varennes, et Suzanne Baudry, F, mineure, de Louis Baudry et Elizabeth Pitallier.
 M 6 - m. 1800 nov 10, Pierre Piquot, M, majeur, de Pierre Piquot et Magdeleine Fournier, par. St-Jaque, et Marie Douze, F, de défunt Joseph Douze et Genevieve Duval, par. Pointe-aux-Trembles.
+
+SUJETS:
+
+ALLEN, Marie-Hélene. B35
+ARCHAMBAULT, Magdeleine. B21
+ARCHAMBAULT, Marguerite. B22, S10
+AUBERTIN, François-Eugène. B5
+BASINET, Catherine. B16
+BASINET, Jean-Baptiste. M3
+BASINET, Josette. S15
+BAUDRY, Jaque. S13
+BAUDRY, Marie-Catherine. S20
+BAUDRY, Marie-Jaque. S9
+BAUDRY, Marie-Louise. B10
+BAUDRY, Suzanne. M5
+BEAUCHAMP, André. B20
+BOURGUIGNON, Josette. M4
+BRIEN, Hyacinthe. M5
+BRIEN, Isidore. B12
+BRIEN, Laurent. B29
+BRIEN, Pierre. B4
+BROUILLET, Marie-Clémence. M3
+BROUILLET, Marie-Rose. B38
+BROUILLET, Joseph. B3
+CADIEU, Joseph. M4
+CAMBELL, Marc. B33
+CANTIN, Jean-Baptiste. B23
+CHARTIER, Raphaël. S3
+CHALIFOU, Angélique. B30
+CHAUDILLON, Paul. S6
+CHEVAUYER, Archange. M2
+DESROCHES, Marie-Anne. S22
+DOUZE, Marie. M6
+DUBUC, Charlotte. S16
+DUMONT, Hélène. B7
+DUVAL, Françoise. B28
+FISCIAU, Julie. B15
+GALIPAU, Laurent. M1
+GALIPAU, Marguerite. B14
+GAUCELIN, François. S14
+JANOT, Joseph. S24
+JANOT, Marie-Anne. B34
+KARIÉPI, Louis. B18
+LAHAISE, Charlotte. S1
+LAHAISE, Jean-Baptiste. B6
+LARCHE, Marie-Louise. B9
+LONPRON, Philippe. B39
+LONPRON, Philippe. M2
+LORION, Clémence/Catherine. B2, S7
+MERRIN, Louis. B26, S25
+MILARD, Hypolite. B17
+MONET, Pierre. B25, S17
+MONGEON, Louis. B32
+MORAN, Julie. B11, S18
+PETIT, Marie-Louise. B8
+PETIT, Paul. S5
+PIQUOT, Pierre. M6
+PROVOT, Alexis. B24
+PROVOT, Jean. S2
+PROVOT, Marie. M1
+RATÉ, Victoire. S8
+REINE, Charlotte, S12
+REINE, Josette. S23
+REINE, Thérèse. S4
+REINE, Véronique. B1, S11
+RÉNIÉ, Nicolas. B27, S19
+RIVE, Hyacinthe. B37
+RIVE, Josette. B19
+SENÉ, Charles. B
+TENANT, Joseph. B31
+TENANT, Marie-Catherine. S21
